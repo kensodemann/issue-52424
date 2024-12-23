@@ -1,0 +1,7 @@
+{
+  "name": "issue-52424",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
